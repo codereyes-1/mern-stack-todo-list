@@ -16,4 +16,4 @@ const ItemSchema = new Schema({
 // Takes an item, puts in the ItemSchema. model needs to know schema
 module.exports = Item = mongoose.model('item', ItemSchema);
 
-// Postman built on electron to build desktop apps with JS
+
